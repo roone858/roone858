@@ -44,12 +44,6 @@ proficiency with algorithms and data structures in c++ and python. Experience wo
   <img src ="./django.svg" alt="Django logo" width="5%" title='Django'/>
 </div>
 
-### Upcoming challenges
-  - 30DaysOfTypeScript
-  - 30DaysOfSQL
-  - 100DaysOfWeb
-  - 10DaysOfBashing
-
 ### Tools
 
 <div>
@@ -61,7 +55,7 @@ proficiency with algorithms and data structures in c++ and python. Experience wo
   <img src ="./nodemon.svg" alt="Nodemon logo" width="5%" title='Nodemon'/> 
 </div>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asabeneh&layout)](https://github.com/asabeneh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roone858&layout)](https://github.com/asabeneh/github-readme-stats)
   
  ### skills
   
