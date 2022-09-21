@@ -7,7 +7,7 @@
 proficiency with algorithms and data structures in c++ and python. Experience working on many projects. Highly analytical, motivated, and skilled at solving programming problems. Can work well both independently and in a team.  keen to return to work after a period of training and personal development that has broadened my skills and experiences.
  I am flexible regarding working hours and can work a range of shifts and positive approach to employment and am willing to train to suit my next working environment.’
 
-![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
+
 
 <div>
 <a href="https://www.linkedin.com/in/asabeneh" target="_blank"><img src='./linkedin.svg' alt='LinkedIn' width="8%"></a>
