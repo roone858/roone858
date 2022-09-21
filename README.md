@@ -1,9 +1,11 @@
 # Hi 👋 !
 
-## I'm Asabeneh S. Yetayeh
+## I'm Mahmoud G. Mansour
 <small style='font-size:12px;'>A place to mine Gold and Diamond! </small>
 
-I am an _educator_, _programmer_, _full-stack developer_, _motivator_, _content creator_ and _data analyst_. This GitHub page has many educational materials about HTML, CSS, JS, React, Python, Python Libraries, Web Development, Data Analysis, and many other topics. The contents are known for their clarity and simplicity. 30DaysOfJavaScript, 30DaysOfReact, 30DaysOfPyhton, 10DaysOfGitandGithub are the most well known contents on this page. I am very much pleased to have you here on my GitHub page and using this contents you can harness your unlimited potential to become a programmer, developer or data analyst. To get uptodate about the contents I create you may follow me on GitHub, LinkedIn and Twitter.  
+‘student in computer programing with a background in Java application, Python, C++, Js, HTML, CSS, MySQL, and databases. 
+proficiency with algorithms and data structures in c++ and python. Experience working on many projects. Highly analytical, motivated, and skilled at solving programming problems. Can work well both independently and in a team.  keen to return to work after a period of training and personal development that has broadened my skills and experiences.
+ I am flexible regarding working hours and can work a range of shifts and positive approach to employment and am willing to train to suit my next working environment.’
 
 ![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
 
