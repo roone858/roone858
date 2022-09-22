@@ -27,10 +27,9 @@ proficiency with algorithms and data structures in c++ and python. Experience wo
   <img src ="./sass.svg" alt="Sass logo" width="4%" title='Sass'/>
   <img src ="./javascript.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
   <img src ="./es6.svg" alt="ES6 logo" width="4%" title='ES6'/>
-  <img src ="./d3.svg" alt="D3 logo" width="4%" title='D3.js'/>
+
   <img src ="./react.svg" alt="react logo" width="4%" title='React'/>
-  <img src ="./redux.svg" alt="redux logo" width="4%" title='Redux'/>
-  <img src ="./gatsby.svg" alt="Gatsby logo" width="4%" title='Gatsby'/>
+
 <div> 
  
  --- 
@@ -40,12 +39,12 @@ proficiency with algorithms and data structures in c++ and python. Experience wo
 
 <div>
   <img src ="./nodejs.svg" alt="Node logo" width="5%" title='Nodejs'/>
-  <img src ="./express.svg" alt="express logo" width="5%" title='Express'/>
+
   <img src ="./mongodb.svg" alt="D3 logo" width="5%" title='MongoDB'/>
   <img src ="./mysql.svg" alt="mysql logo" width="5%" title='MYSQL'/>
   <img src ="./sqlite.svg" alt="sqlite logo" width="5%" title='sqlite'/>
   <img src ="./python.svg" alt="Python logo" width="5%" title='Python'/>
-  <img src ="./flask.svg" alt="Flask logo" width="5%" title='Flask'/>
+
   <img src ="./django.svg" alt="Django logo" width="5%" title='Django'/>
 </div>
  
@@ -55,11 +54,11 @@ proficiency with algorithms and data structures in c++ and python. Experience wo
 ### Tools
 
 <div>
-  <img src ="./figma.svg" alt="Figma logo" width="5%" title='Figma'/>
+  <img src ="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Figma logo" width="5%" title='Figma'/>
   <img src ="./visual-studio-code.svg" alt="VS Code logo" width="5%" title='Visual Studio Code'/>
   <img src ="./git.svg" alt="Git logo" width="5%" title='Git'/>
   <img src ="./eslint.svg" alt="ESLint logo" width="5%" title='ESLint'/>
-  <img src ="./webpack.svg" alt="Webpack logo" width="5%" title='Webpack'/>
+  <img src ="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="Webpack logo" width="5%" title='Webpack'/>
   <img src ="./nodemon.svg" alt="Nodemon logo" width="5%" title='Nodemon'/> 
 </div>
   
