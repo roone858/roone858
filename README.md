@@ -62,9 +62,12 @@ proficiency with algorithms and data structures in c++ and python. Experience wo
 ✅ HTML <br />
 ✅ CSS <br />
 ✅ Git and GitHub <br />
+✅ Bootstrap <br />
 ✅ JavaScript <br />
 ✅ React <br />
 ✅ Python <br />
+✅ C++ <br />
+✅ Data Stractures and Algorithms<br />
 ✅ Data Analysis <br />
  on <a href="https://www.youtube.com/channel/UCM4xOopkYiPwJqyKsSqL9mw" target="_blank">CodingForAll</a> YouTube channel. You may subscribe the channel for more contents
  </div>
