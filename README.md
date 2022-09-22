@@ -10,11 +10,13 @@ proficiency with algorithms and data structures in c++ and python. Experience wo
 
 
 <div>
-<a href="https://www.linkedin.com/in/asabeneh" target="_blank"><img src='./linkedin.svg' alt='LinkedIn' width="8%"></a>
-<a href="https://twitter.com/Asabeneh" target="_blank"><img src='./twitter.svg' alt='Twitter' width="3%" title='@Asabeneh'></a>
-<a href="https://www.youtube.com/channel/UCM4xOopkYiPwJqyKsSqL9mw" target="_blank"><img src='./youtube.svg' alt='YouTube' width="3%"></a>
+<a href="https://www.linkedin.com/in/mahmoud-gamal-55a933166/" target="_blank"><img src='./linkedin.svg' alt='LinkedIn' width="8%"></a>
+<a href="https://twitter.com/RoOne71"><img src='./twitter.svg' alt='Twitter' width="3%" title='@Asabeneh'></a>
+<a href="" target="_blank"><img src='./youtube.svg' alt='YouTube' width="3%"></a>
 
 </div>
+
+
 
 ### Frontend Technologies
 
@@ -30,6 +32,9 @@ proficiency with algorithms and data structures in c++ and python. Experience wo
   <img src ="./redux.svg" alt="redux logo" width="4%" title='Redux'/>
   <img src ="./gatsby.svg" alt="Gatsby logo" width="4%" title='Gatsby'/>
 <div> 
+ 
+ --- 
+ 
 
 ### Backend Technologies
 
@@ -43,6 +48,9 @@ proficiency with algorithms and data structures in c++ and python. Experience wo
   <img src ="./flask.svg" alt="Flask logo" width="5%" title='Flask'/>
   <img src ="./django.svg" alt="Django logo" width="5%" title='Django'/>
 </div>
+ 
+  --- 
+ 
 
 ### Tools
 
@@ -56,6 +64,13 @@ proficiency with algorithms and data structures in c++ and python. Experience wo
 </div>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roone858&layout)](https://github.com/asabeneh/github-readme-stats)
+ 
+  
+  --- 
+  
+  --- 
+ 
+ 
   
  ### skills
   
@@ -69,8 +84,7 @@ proficiency with algorithms and data structures in c++ and python. Experience wo
 ✅ C++ <br />
 ✅ Data Stractures and Algorithms<br />
 ✅ Data Analysis <br />
- on <a href="https://www.youtube.com/channel/UCM4xOopkYiPwJqyKsSqL9mw" target="_blank">CodingForAll</a> YouTube channel. You may subscribe the channel for more contents
- </div>
+
   
  ---
   
