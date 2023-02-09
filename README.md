@@ -1,9 +1,9 @@
 # Hi 👋 !
 
-## I'm Mahmoud G. Mansour
-<small style='font-size:12px;'>A place to mine Gold and Diamond! </small>
+# I'm Mahmoud G. Mansour
+> <small style='font-size:12px;'>A place to mine Gold and Diamond! </small>
 
-Student in computer programing with a background in Java application, Python, C++, Js, HTML, CSS, MySQL, and databases. proficiency with algorithms and data structures in c++ and python. Experience working on many projects.
+> Student in computer programing with a background in Java application, Python, C++, Js, HTML, CSS, MySQL, and databases. proficiency with algorithms and data structures in c++ and python. Experience working on many projects.
 
 
 <div>
@@ -15,7 +15,7 @@ Student in computer programing with a background in Java application, Python, C+
 
 
 
-### Frontend Technologies
+# Frontend Technologies
 
 <div>
   <img src ="./html-5.svg" alt="HTML5 logo" width="3%" title='HTML5'/>
@@ -29,10 +29,10 @@ Student in computer programing with a background in Java application, Python, C+
 
 <div> 
  
- --- 
+  
  
 
-### Backend Technologies
+# Backend Technologies
 
 <div>
   <img src ="./nodejs.svg" alt="Node logo" width="5%" title='Nodejs'/>
@@ -45,10 +45,10 @@ Student in computer programing with a background in Java application, Python, C+
   <img src ="./django.svg" alt="Django logo" width="5%" title='Django'/>
 </div>
  
-  --- 
+  
  
 
-### Tools
+# Tools
 
 <div>
   <img src ="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Figma logo" width="5%" title='Figma'/>
@@ -58,17 +58,8 @@ Student in computer programing with a background in Java application, Python, C+
   <img src ="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="Webpack logo" width="5%" title='Webpack'/>
   <img src ="./nodemon.svg" alt="Nodemon logo" width="5%" title='Nodemon'/> 
 </div>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roone858&layout)](https://github.com/asabeneh/github-readme-stats)
- 
-  
-  --- 
-  
-  --- 
- 
- 
-  
- ### skills
+   
+ # skills
   
 ✅ HTML <br />
 ✅ CSS <br />
@@ -80,9 +71,12 @@ Student in computer programing with a background in Java application, Python, C+
 ✅ C++ <br />
 ✅ Data Stractures and Algorithms<br />
 ✅ Data Analysis <br />
-
   
- ---
+  --- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roone858&layout)](https://github.com/asabeneh/github-readme-stats)
+ 
+  
+
   
 
 
