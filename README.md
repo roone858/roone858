@@ -3,10 +3,7 @@
 ## I'm Mahmoud G. Mansour
 <small style='font-size:12px;'>A place to mine Gold and Diamond! </small>
 
-‘student in computer programing with a background in Java application, Python, C++, Js, HTML, CSS, MySQL, and databases. 
-proficiency with algorithms and data structures in c++ and python. Experience working on many projects. Highly analytical, motivated, and skilled at solving programming problems. Can work well both independently and in a team.  keen to return to work after a period of training and personal development that has broadened my skills and experiences.
- I am flexible regarding working hours and can work a range of shifts and positive approach to employment and am willing to train to suit my next working environment.’
-
+Student in computer programing with a background in Java application, Python, C++, Js, HTML, CSS, MySQL, and databases. proficiency with algorithms and data structures in c++ and python. Experience working on many projects.
 
 
 <div>
