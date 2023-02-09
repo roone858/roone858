@@ -86,6 +86,3 @@
 - JAM Stack
 - MRF Stack
  -->
-
----
-<small> _I am a lifelong learner and I love teaching and inspiring people_. </small>
