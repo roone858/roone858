@@ -8,8 +8,8 @@
 
 <div>
 <a href="https://www.linkedin.com/in/mahmoud-gamal-55a933166/" target="_blank"><img src='./linkedin.svg' alt='LinkedIn' width="8%"></a>
-<a href="https://twitter.com/RoOne71"><img src='./twitter.svg' alt='Twitter' width="8%" title='@Asabeneh'></a>
-<a href="https://www.youtube.com/channel/UCiKRbhiEBcSNwFxH96TNCRg" target="_blank"><img src='./youtube.svg' alt='YouTube' width="8%"></a>
+<a href="https://twitter.com/RoOne71"><img src='./twitter.svg' alt='Twitter' width="5%" title='@Asabeneh'></a>
+<a href="https://www.youtube.com/channel/UCiKRbhiEBcSNwFxH96TNCRg" target="_blank"><img src='./youtube.svg' alt='YouTube' width="5%"></a>
 
 </div>
 
