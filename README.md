@@ -3,7 +3,22 @@
 # I'm Mahmoud G. Mansour
 > <small style='font-size:12px;'>A place to mine Gold and Diamond! </small>
 
-> Student in computer programing with a background in Java application, Python, C++, Js, HTML, CSS, MySQL, and databases. proficiency with algorithms and data structures in c++ and python. Experience working on many projects.
+
+💻 I'm a MERN stack developer with experience in building full-stack web applications. My primary focus is on the development of robust and user-friendly interfaces using React.js for the frontend and Node.js with Express.js for the backend.
+
+🌐 I have a solid understanding of HTML, CSS, and JavaScript, which allows me to create engaging and responsive web experiences. I'm also proficient in utilizing frameworks like Bootstrap and Material-UI to streamline the design process.
+
+🐍 In addition to my frontend skills, I have a strong command of Python and Django for server-side development. I have worked on projects involving Django REST framework to build RESTful APIs and integrate them seamlessly with the frontend.
+
+💾 I have a background in C++ and PHP, which has equipped me with a strong foundation in programming logic and algorithm development. I'm also familiar with MySQL and have experience in database design and management.
+
+🔧 I am comfortable working with Git and version control systems, ensuring efficient collaboration and code management within development teams.
+
+📚 Continuous learning is important to me, and I'm always exploring new technologies and frameworks to enhance my skills. I'm passionate about writing clean, efficient, and scalable code while maintaining high standards of software development.
+
+🌟 If you have any questions, collaborations, or exciting projects, feel free to reach out! Let's create amazing things together.
+
+
 
 
 <div>
